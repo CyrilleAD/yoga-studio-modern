@@ -34,7 +34,7 @@ Une application web moderne et responsive pour un studio de yoga, développée a
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/BenLe302/yoga-studio-modern.git
+git clone https://github.com/CyrilleAD/yoga-studio-modern.git
 cd yoga-studio-modern
 ```
 
